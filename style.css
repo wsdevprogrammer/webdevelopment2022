@@ -10,14 +10,12 @@ body {
 }
 
 .index-section {
-  border: 2px solid yellow;
   width: 1200px;
   text-align: left;
   margin: 100px auto;
 }
 
 .cmd-section {
-  border: 2px solid yellow;
   width: 1200px;
   text-align: left;
   margin: 100px auto;
