@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: bisque;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.index-section {
+  border: 2px solid yellow;
+  width: 1200px;
+  text-align: left;
+  margin: 100px auto;
+}
+
+.cmd-section {
+  border: 2px solid yellow;
+  width: 1200px;
+  text-align: left;
+  margin: 100px auto;
+}
+
+p {
+  width: 800px;
+  line-height: 40px;
+}
+
+h1, h2, h3 {
+  line-height: 60px;
+}
+
+button {
+  margin: 20px 0px;
+  border: none;
+  border-radius: 4px;
+  padding: 5px 10px;
+  cursor: pointer;
+  color: white;
+  background-color: blue;
+}
+
+button a {
+  color: white;
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=style.css.map */
